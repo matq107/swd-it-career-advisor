@@ -64,7 +64,7 @@ Bezwymiarowy wskaźnik punktowy porządkujący technologie od najbardziej opłac
 * **Interaktywny dashboard (Power BI Service):** https://app.powerbi.com/groups/me/reports/5cd11685-01d8-4cf3-a64b-b82691f9c5cc/e96a7f699b3dc7d8e477?experience=power-bi *(wymaga zalogowania na konto Microsoft 365)*.
 * **Podgląd interfejsu:**
 
-![Podgląd dashboardu SWD](docs/Screenshot 2026-11-12 at 19.24.43.png)
+![Podgląd dashboardu SWD](docs/Screenshot1.png)
 
 ---
 
