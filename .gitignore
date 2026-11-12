@@ -3,7 +3,11 @@ __pycache__/
 *.py[cod]
 venv/
 .env
+.venv/
 *.sqlite
 *.db
 data/raw/*
 !data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+!data/processed/skill_benchmarks.csv
