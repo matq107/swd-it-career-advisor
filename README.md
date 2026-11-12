@@ -71,4 +71,3 @@ Bezwymiarowy wskaźnik punktowy porządkujący technologie od najbardziej opłac
 ## 5. Autorzy
 Mateusz Krupiński
 Adrian Łaciak
-* Imię i Nazwisko – Projekt SWD
